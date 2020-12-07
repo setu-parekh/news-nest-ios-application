@@ -3,8 +3,8 @@ An iOS application to view latest news of various topics from all around the wor
 
 ## Summary
 * [Introduction & General Information](#introduction--general-information)
-* [Application Design](#application--design)
-* [Run Locally](#run--locally)
+* [Application Design](#application-design)
+* [Run Locally](#run-locally)
 
 ## Introduction & General Information
 - This iOS application is designed with an aim to provide users with the latest news from around the world in various languages and of different topics.
